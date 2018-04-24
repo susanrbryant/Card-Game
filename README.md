@@ -1,6 +1,6 @@
 # Play your cards right"!"
 
-## Purpose
+## Getting Started
 
 A random number is generated for you at the start of every game.
 
@@ -12,24 +12,32 @@ The value of each playing card is hidden from you until you click on it.
 
 ![Cards](./assets/images/card-game.png)
 
+### Play the game
+
 * [Play](https://susanrbryant.github.io/Card-Game/)
 
-**Code Style**
--JSdoc style commenting.
+#### Code Style
 
-**Built With**
--HTML, CSS3, Bootstrap.
--jQuery.
--JavaScript.
+* JSdoc style commenting.
 
-**Future Plans**
--Improve landing page.
+#### Built With
 
-**Author**
--Susan Bryant
+* HTML, CSS3, Bootstrap.
+* jQuery.
+* JavaScript.
 
-**Acknowledgments**
--Inspiration My Grandmother, who loved playing cards.
+##### Future Plans
 
-**License**
--This project is licensed under the MIT License.
+* Improve landing page.
+
+##### Author
+
+* Susan Bryant
+
+##### Acknowledgments
+
+* Inspiration My Grandmother, who loved playing cards.
+
+##### License
+
+* This project is licensed under the MIT License.
